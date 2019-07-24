@@ -1,0 +1,17 @@
+.collection-item {
+    width: 24%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.image {
+    width: 100%;
+    height: 95%;
+    background-size: cover;
+    background-position: center center;
+}
+.collection-footer {
+    display: flex;
+    justify-content: space-between;
+}
