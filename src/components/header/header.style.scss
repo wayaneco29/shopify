@@ -1,0 +1,17 @@
+.header {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    .options {
+    font-size: 20px;
+    margin-top: 30px;
+
+    .option {
+        padding: 0 10px;
+    }
+    }
+}
+
